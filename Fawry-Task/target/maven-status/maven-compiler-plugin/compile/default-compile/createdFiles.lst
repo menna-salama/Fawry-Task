@@ -1,0 +1,6 @@
+com\mycompany\fawry\task\FawryTask.class
+com\mycompany\fawry\task\Customer.class
+com\mycompany\fawry\task\Cart.class
+com\mycompany\fawry\task\Checkout.class
+com\mycompany\fawry\task\Product.class
+com\mycompany\fawry\task\Cart$CartItem.class
